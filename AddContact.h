@@ -1,11 +1,3 @@
-/////////////////////////////////////////
-//FileName: AddContact.h
-//FileType: C++ header File
-//Author: Russell Kemmit
-//Created On: 7/10/17 10:02 AM
-//Last Modified: 8/7/2017
-//Description: this is the AddContact header file
-/////////////////////////////////////////
 #include"MainMenu.h"
 #include <iostream>
 #include<cstdlib>
