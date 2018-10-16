@@ -1,11 +1,3 @@
-/////////////////////////////////////////
-//FileName: AddContact.cpp
-//FileType: C++ source File
-//Author: Russell Kemmit
-//Created On: 7/10/17 10:02 AM
-//Last Modified: 8/7/2017
-//Description: this is the AddContact class
-/////////////////////////////////////////
 #include "AddContact.h"
 AddContact::AddContact(): ContactName(""), ContactPhone(0), Address(""), Email(""), Skype(""){
 
