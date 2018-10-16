@@ -1,11 +1,3 @@
-/////////////////////////////////////////
-//FileName: MainMenu.cpp
-//FileType: C++ source File
-//Author: Russell Kemmit
-//Created On: 7/10/17 10:02 AM
-//Last Modified: 8/7/2017
-//Description: this is the MainMenu class
-/////////////////////////////////////////
 #include "MainMenu.h"
 #include "AddContact.h"
 MainMenu::MainMenu() {
